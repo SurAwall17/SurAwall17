@@ -41,9 +41,16 @@
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <!-- Email -->
+  <a href="mailto:surawalawal6@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="email"/>
   </a>
+  <!-- Instagram -->
+  <a href="https://instagram.com/surawall" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/>
+  </a>
+
 </p>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=120&section=footer)
