@@ -2,9 +2,13 @@
 
 ---
 <p align="center">
-  ✨ I am a graduate of the University of Dipa Makassar with a degree in Information Technology, specializing in website development, UI/UX, graphic design, video editing, and computer/laptop troubleshooting. I have experience in various academic and freelance projects, particularly in web development and operating system installation. <br>
+  ✨ I am a graduate of the University of Dipa Makassar with a degree in Information Technology, specializing in website development, UI/UX, graphic design, video editing, and computer/laptop troubleshooting. I have experience in various academic and freelance projects, particularly in web development and operating system installation. <br><br>
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=SurAwall17&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />  
+  <img src="https://komarev.com/ghpvc/?username=SurAwall17&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" /> 
+  <!-- Stars -->
+  <a href="https://github.com/SurAwall17?tab=repositories">
+    <img src="https://img.shields.io/github/stars/SurAwall17?label=Stars&style=flat-square&color=blueviolet" alt="GitHub stars" />
+  </a> 
   <!-- Followers -->
   <a href="https://github.com/SurAwall17?tab=followers">
     <img src="https://img.shields.io/github/followers/SurAwall17?label=Followers&style=flat-square&color=blueviolet" alt="GitHub followers" />
