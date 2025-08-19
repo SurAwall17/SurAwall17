@@ -6,11 +6,11 @@
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=SurAwall17&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" /> 
   <!-- Stars -->
-  <a href="https://github.com/SurAwall17?tab=repositories">
+  <a href="https://github.com/SurAwall17?tab=repositories" style="text-decoration:none;">
     <img src="https://img.shields.io/github/stars/SurAwall17?label=Stars&style=flat-square&color=blueviolet" alt="GitHub stars" />
   </a> 
   <!-- Followers -->
-  <a href="https://github.com/SurAwall17?tab=followers">
+  <a href="https://github.com/SurAwall17?tab=followers" style="text-decoration:none;">
     <img src="https://img.shields.io/github/followers/SurAwall17?label=Followers&style=flat-square&color=blueviolet" alt="GitHub followers" />
   </a>
 </p>
@@ -71,15 +71,15 @@
 ## 🤝 Connect with Me
 <p align="center">
   <!-- Email -->
-  <a href="mailto:surawalawal6@gmail.com">
+  <a href="mailto:surawalawal6@gmail.com" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="email"/>
   </a>
   <!-- Instagram -->
-  <a href="https://instagram.com/surawall" target="_blank">
+  <a href="https://instagram.com/surawall" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/>
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/surawal" target="_blank">
+  <a href="https://www.linkedin.com/in/surawal" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
   </a>
 </p>
