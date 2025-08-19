@@ -1,6 +1,15 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=200&section=header&text=Hi%20there!%20I'm%20Surawal%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35)
 
-
+---
+<p align="center">
+  ✨ I am a graduate of the University of Dipa Makassar with a degree in Information Technology, specializing in website development, UI/UX, graphic design, video editing, and computer/laptop troubleshooting. I have experience in various academic and freelance projects, particularly in web development and operating system installation. <br>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=SurAwall17&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />  
+  <!-- Followers -->
+  <a href="https://github.com/SurAwall17?tab=followers">
+    <img src="https://img.shields.io/github/followers/SurAwall17?label=Followers&style=flat-square&color=blueviolet" alt="GitHub followers" />
+  </a>
+</p>
 
 
 ## 🚀 About Me
@@ -53,8 +62,6 @@
 </p>
 
 
- 
-
 ---
 
 ## 🤝 Connect with Me
@@ -67,7 +74,10 @@
   <a href="https://instagram.com/surawall" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/>
   </a>
-
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/surawal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
+  </a>
 </p>
 
 
