@@ -30,36 +30,9 @@
 ---
 
 🌟 Featured Projects
-1) 🚚 Aplikasi Ekspedisi (Web)
-
-Laravel • PHP • MySQL • Tailwind CSS
-Sistem manajemen pengiriman barang: kelola user, pengiriman, tracking, laporan.
-
-Fitur: CRUD pengiriman, status tracking, laporan PDF/Excel, role-based access
-
-Repo: https://github.com/SurAwall17/Aplikasi-Ekspedisi
-
-
-2) 🎨 Color Detector App (Mobile)
-
-Flutter (Dart) • Kamera Realtime • (Opsional) Flask + Python untuk pengolahan gambar)
-Aplikasi deteksi warna realtime dari titik tengah kamera, menampilkan kode HEX/RGB dan bisa disalin.
-
-Fitur: deteksi realtime, ambil dari galeri, simpan palet warna
-
-Repo (Flutter): https://github.com/SurAwall17/colorSenseApp
-
-
-3) 📚 Aplikasi Perpustakaan (Web)
-
-Laravel • PHP • MySQL • Tailwind CSS
-Sistem perpustakaan: katalog buku, peminjaman/pengembalian, denda, laporan.
-
-Fitur: manajemen buku & anggota, histori pinjam, pengembalian, denda, laporan
-
-Repo: https://github.com/SurAwall17/Aplikasi-Perpustakaan-Berbasis-Web
-
-Demo: (opsional)
+- 🚚 **Aplikasi Ekspedisi** → Laravel + PHP + MySQL + Tailwind CSS  
+- 📱 **Color Detector App** → Flutter + Flask + ML  
+- 📚 **Aplikasi Perpustakaan Web** → Laravel + MySQL + Tailwind CSS  
 
 ---
 
