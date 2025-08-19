@@ -1,16 +1,49 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20there!%20I'm%20Surawal%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35)
 
-<!--
-**SurAwall17/SurAwall17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Mobile & Web Developer  
+- 🌱 Currently learning **Flutter, Dart, Laravel**  
+- 🛠 Experienced with **PHP, MySQL, Tailwind CSS**  
+- 🎨 Passionate about UI/UX and clean code  
+- 📫 Reach me at: **youremail@example.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,mysql,tailwind,html,css,js,git,github,vscode,figma,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SurAwall17&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurAwall17&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurAwall17&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+- 📱 **Color Detector App** → Flutter + Flask + ML  
+- 🧠 **Skin Disease Detection** → CNN + TFLite  
+- 🌤️ **Weather Forecasting App** → ARIMA + API Integration  
+
+---
+
+## 🤝 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="email"/>
+  </a>
+</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer)
