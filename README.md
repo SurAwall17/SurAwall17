@@ -26,9 +26,15 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurAwall17&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurAwall17&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- Top language by repo (bahasa utama per repo) -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SurAwall17&theme=tokyonight" alt="Top languages by repo" />
+  <!-- Top language by commit (bahasa paling sering dikomit) -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SurAwall17&theme=tokyonight" alt="Top languages by commit" />
 </p>
+
+
 
 ---
 
