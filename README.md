@@ -36,18 +36,17 @@
 
 <p align="center">
   <a href="https://github.com/SurAwall17/Aplikasi-Ekspedisi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurAwall17&repo=aplikasi-ekspedisi&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurAwall17&repo=Aplikasi-Ekspedisi&theme=tokyonight" />
   </a>
   <a href="https://github.com/SurAwall17/colorSenseApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurAwall17&repo=color-detector-app&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurAwall17&repo=colorSenseApp&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/SurAwall17/Aplikasi-Perpustakaan-Berbasis-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurAwall17&repo=Aplikasi-Perpustakaan-Berbasis-Web&theme=tokyonight" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/SurAwall17/Aplikasi-Perpustakaan-Berbasis-Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurAwall17&repo=perpustakaan-web&theme=tokyonight" />
-  </a>
-</p>
+
  
 
 ---
