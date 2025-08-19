@@ -32,10 +32,23 @@
 
 ---
 
-🌟 Featured Projects
-- 🚚 **Aplikasi Ekspedisi** → Laravel + PHP + MySQL + Tailwind CSS  
-- 📱 **Color Detector App** → Flutter + Flask + ML  
-- 📚 **Aplikasi Perpustakaan Web** → Laravel + MySQL + Tailwind CSS  
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/SurAwall17/Aplikasi-Ekspedisi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurAwall17&repo=aplikasi-ekspedisi&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/SurAwall17/colorSenseApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurAwall17&repo=color-detector-app&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SurAwall17/Aplikasi-Perpustakaan-Berbasis-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurAwall17&repo=perpustakaan-web&theme=tokyonight" />
+  </a>
+</p>
+ 
 
 ---
 
