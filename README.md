@@ -2,15 +2,15 @@
 
 ---
 <p align="center">
-  ✨ I am a graduate of the University of Dipa Makassar with a degree in Information Technology, specializing in website development, UI/UX, graphic design, video editing, and computer/laptop troubleshooting. I have experience in various academic and freelance projects, particularly in web development and operating system installation. <br><br>
+  ✨ I am a graduate of the University of Dipa Makassar with a degree in Information Technology, specializing in website development, UI/UX, graphic design, video editing, and computer troubleshooting. I have experience in various academic and freelance projects, particularly in web development and operating system installation. <br><br>
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=SurAwall17&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" /> 
   <!-- Stars -->
-  <a href="https://github.com/SurAwall17?tab=repositories" style="text-decoration:none;">
+  <a href="https://github.com/SurAwall17?tab=repositories">
     <img src="https://img.shields.io/github/stars/SurAwall17?label=Stars&style=flat-square&color=blueviolet" alt="GitHub stars" />
   </a> 
   <!-- Followers -->
-  <a href="https://github.com/SurAwall17?tab=followers" style="text-decoration:none;">
+  <a href="https://github.com/SurAwall17?tab=followers">
     <img src="https://img.shields.io/github/followers/SurAwall17?label=Followers&style=flat-square&color=blueviolet" alt="GitHub followers" />
   </a>
 </p>
@@ -27,7 +27,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,mysql,tailwind,html,css,js,git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,mysql,tailwind,bootstrap,html,css,js,git,github,vscode,figma,linux,arch,kali,androidstudio,ps,bash" />
 </p>
 
 ---
@@ -71,15 +71,15 @@
 ## 🤝 Connect with Me
 <p align="center">
   <!-- Email -->
-  <a href="mailto:surawalawal6@gmail.com" style="text-decoration:none;">
+  <a href="mailto:surawalawal6@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="email"/>
   </a>
   <!-- Instagram -->
-  <a href="https://instagram.com/surawall" target="_blank" style="text-decoration:none;">
+  <a href="https://instagram.com/surawall" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/>
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/surawal" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/surawal" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
   </a>
 </p>
