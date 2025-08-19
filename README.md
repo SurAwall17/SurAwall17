@@ -1,4 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20there!%20I'm%20Surawal%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=200&section=header&text=Hi%20there!%20I'm%20Surawal%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35)
+
+
+
 
 ## 🚀 About Me
 - 💻 Mobile & Web Developer  
@@ -38,12 +41,9 @@
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
-  </a>
   <a href="mailto:youremail@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="email"/>
   </a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=120&section=footer)
