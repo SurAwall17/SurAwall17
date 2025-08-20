@@ -27,7 +27,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,mysql,tailwind,bootstrap,html,css,js,git,github,vscode,figma,linux,arch,kali,androidstudio,ps,bash" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,mysql,tailwind,bootstrap,html,css,js,java,git,github,vscode,figmalinux,arch,kali,androidstudio,ps,bash" />
 </p>
 
 ---
@@ -41,12 +41,14 @@
 </p>
 
 <p align="center">
-  <!-- Top language by repo (bahasa utama per repo) -->
+ 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SurAwall17&theme=tokyonight" alt="Top languages by repo" />
-  <!-- Top language by commit (bahasa paling sering dikomit) -->
+
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SurAwall17&theme=tokyonight" alt="Top languages by commit" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurAwall17&theme=tokyo-night&hide_border=true" />
+</p>
 
 
 ---
@@ -79,7 +81,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/>
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/surawal" target="_blank">
+  <a href="https://www.linkedin.com/in/surawal-s-b0a345285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
   </a>
 </p>
