@@ -18,8 +18,8 @@
 
 ## 🚀 About Me
 - 💻 Mobile & Web Developer  
-- 🌱 Currently learning **Flutter, Dart, Laravel**  
-- 🛠 Experienced with **PHP, MySQL, Tailwind CSS**  
+- 🌱 Currently learning **Flutter, Tailwind**  
+- 🛠 Experienced with **PHP, MySQL, Laravel, CSS**  
 - 🎨 Passionate about UI/UX and clean code  
 - 📫 Reach me at: **surawalawal6@gmail.com**
 
