@@ -20,7 +20,7 @@
 - 💻 Mobile & Web Developer  
 - 🌱 Currently learning **Flutter, Tailwind**  
 - 🛠 Experienced with **PHP, MySQL, Laravel, CSS**  
-- 🎨 Passionate about UI/UX and clean code  
+- 🎨 Passionate about UI/UX 
 - 📫 Reach me at: **surawalawal6@gmail.com**
 
 ---
@@ -69,6 +69,7 @@
 
 
 ---
+
 
 ## 🤝 Connect with Me
 <p align="center">
