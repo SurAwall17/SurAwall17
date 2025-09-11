@@ -27,7 +27,8 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,mysql,tailwind,bootstrap,html,css,js,java,git,github,vscode,figmalinux,arch,kali,androidstudio,ps,bash" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,php,laravel,tailwind,bootstrap,html,css,js,mysql,java,git,github,vscode,figma,linux,arch,kali,ubuntu,fedora,androidstudio,ps,bash" />
+
 </p>
 
 ---
